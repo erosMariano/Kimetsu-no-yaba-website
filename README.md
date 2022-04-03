@@ -1,7 +1,7 @@
 # Kimetsu No Yaba Website
 <h1 align="center">
 
-<img src="./image/dobras/dobra1.png" />
+<img src="https://github.com/erosMariano/Kimetsu-no-yaba-website/blob/main/image/Dobras/Dobra1.png?raw=true" />
 
 </h1>
 
@@ -15,6 +15,15 @@
   
 
 ##  🎨 Layout
+O layout do site também está disponível no Figma:
+
+  
+
+<a target="_blank" href="https://www.figma.com/file/8Km6Viqt2mOoInQ1EsCvqZ/Kimetsu-No-Yaba-Project?node-id=1%3A2">
+
+<img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%20861E">
+
+</a>
 
 
 </a>
@@ -31,13 +40,13 @@
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
-<img src="./image/dobras/dobra1.png" width="100%">
-<img src="./image/dobras/dobra2.png" width="100%">
-<img src="./image/dobras/dobra3.png" width="100%">
-<img src="./image/dobras/dobra4.png" width="100%">
-<img src="./image/dobras/dobra5.png" width="100%">
-<img src="./image/dobras/dobra6.png" width="100%">
-<img src="./image/dobras/dobra7.png" width="100%">
+<img src="https://github.com/erosMariano/Kimetsu-no-yaba-website/blob/main/image/Dobras/Dobra1.png?raw=true" width="100%">
+<img src="https://github.com/erosMariano/Kimetsu-no-yaba-website/blob/main/image/Dobras/Dobra2.png?raw=true" width="100%">
+<img src="https://github.com/erosMariano/Kimetsu-no-yaba-website/blob/main/image/Dobras/Dobra3.png?raw=true" width="100%">
+<img src="https://github.com/erosMariano/Kimetsu-no-yaba-website/blob/main/image/Dobras/Dobra4.png?raw=true" width="100%">
+<img src="https://github.com/erosMariano/Kimetsu-no-yaba-website/blob/main/image/Dobras/Dobra5.png?raw=true" width="100%">
+<img src="https://github.com/erosMariano/Kimetsu-no-yaba-website/blob/main/image/Dobras/Dobra6.png?raw=true" width="100%">
+<img src="https://github.com/erosMariano/Kimetsu-no-yaba-website/blob/main/image/Dobras/Dobra7.png?raw=true" width="100%">
 </p>
 
 
