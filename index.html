@@ -271,10 +271,8 @@
             targets: ".luxy-el",
             wrapperSpeed: 0.08
         });
-        $(document).ready(() => {
-            $(".sec6 video").on("click", () => {
-                $(this).get(0).play();
-            })
+        document.querySelector(".sec6").addEventListener("click", () => {
+            document.querySelector(".sec6 video").play()
         })
 
         $(".image_slider").slick({
